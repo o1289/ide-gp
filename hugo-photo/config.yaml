@@ -1,4 +1,4 @@
-baseURL: https://8082-o1289-idegp-jd8c87bbvyl.ws-us106.gitpod.io # todo: change site url.
+baseURL: https://olphoto.zeabur.app # todo: change site url.
 title: Eternity # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
