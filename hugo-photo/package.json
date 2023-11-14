@@ -1,0 +1,7 @@
+{
+  "name": "hugo-photo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "./hugo serve",
+    "build": "./hugo"
+}
