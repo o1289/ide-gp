@@ -1,0 +1,3 @@
+.content td.code pre {
+    background-image: linear-gradient(var(--white) 50%, var(--white) 50%);
+}
